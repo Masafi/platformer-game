@@ -8,4 +8,4 @@ If you change `Game` to `LevelEditor` class in `main.cpp`, you could open a leve
 ## Contact
 You can ask me (telegram: @leviska) if you interested in this project
 ## Images
-All images were taken from free sprite sites. If some images break license, contact me
+All images were taken from free sprite sites. If some images violate license, contact me
